@@ -13,9 +13,20 @@ body {
 
 .page-header h2 {
 	color: white !important;
+	display: inline-block;
 	font-weight: 600; 
 	padding-top: 120px; 
 	padding-bottom: 60px;
+}
+
+#enter {
+	color: white;
+	text-decoration: none;
+}
+
+#enter i {
+	font-size: 24px !important; 
+	vertical-align: middle;
 }
 
 .page-footer {
